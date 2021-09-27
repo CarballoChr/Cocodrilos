@@ -22,13 +22,29 @@ p{
 
 #Intro{
     margin:100px ;
+    text-align: justify;
+    padding-left: 250px;
+    padding-right: 250px;
 }
 
 #lista{
     text-align: left;
     font-size: large;
-    margin:0px,
+    width: 500px;
+    margin-left: 450px;
+    
+   
 
+
+}
+
+#cocodrilos{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flexbox;
+   
+   
 }
 
 ul{
