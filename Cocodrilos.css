@@ -2,91 +2,82 @@
 
 body{
     background-color: black;
-    color:white;
+    color: #fff;;
     text-align: center;
+    background-image: url("https://www.caracteristicas.co/wp-content/uploads/2018/09/Piel-cocodrilo-min-e1537141100824.jpg");
+    background-size: 50%;
 }
 
 h1 {
-    color:green;
+    color:#aba7a7
+    font-weight: bolder;
     font-style:solid;
-    border:solid;
-    
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 30px;
+    font-size: 150px;
+    /*-webkit-text-stroke: 1px gray;*/
 }
 
 p{
-    color:white;
+
     font-style: oblique;
     font-size:30px;
+  
+    
    
 }
 
 #Intro{
-    margin:100px ;
     text-align: justify;
-    padding-left: 250px;
-    padding-right: 250px;
+    width: 500px;
+    padding: 30px;
+    background-color: #4d5057;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid;
+    border-color: white;
+    margin-top: 100px;
+    
 }
 
 #lista{
-    text-align: left;
-    font-size: large;
-    width: 500px;
-    margin-left: 450px;
-    
+    text-align: center;
+    font-size: 60px; 
+    padding-left: 250px;
+    padding-right: 250px;
+  
    
+}
+     
+
+
+#cocodrilos{    
+display:flex;
+flex-wrap: wrap;
 
 
 }
 
-#cocodrilos{
-    width: 500px;
-    margin-left: auto;
-    margin-right: auto;
-    display: flex;
-   
-   
+
+#coco_ind{
+
+    padding: 50px;
+    width: 300px;
+  
 }
 
-ul{
-    color:purple;
-    text-align: left;
+
+#coco_img{
+    width: 300px; height: 200px;
+    border: solid;
+    border-color: white;
 }
+
+
 
 #millones{
     color:gray;
     font-style: solid;
     font-family: 'Courier New', Courier, monospace;
 }
-
-#imagen{
-    color: aliceblue;
-    font: size 10px;
-    ;
-}
-
-#Nilo{
-    width: 300px; height: 200px;
-    
-}
-
-#Americano{
-    width: 300px; height: 200px;
-    
-}
-
-#Australiano{
-    width: 300px; height: 200px;
-    
-}
-
-#Siames{
-    width: 300px; height: 200px;
-    
-}
-
-#Juancho{
-    width: 300px; height: 200px;
-
-}
-
-
