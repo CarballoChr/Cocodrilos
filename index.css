@@ -1,6 +1,7 @@
 
 
 body{
+
     background-color: black;
     color: #fff;;
     text-align: center;
@@ -29,6 +30,7 @@ p{
 }
 
 #Intro{
+
     text-align: justify;
     width: 500px;
     padding: 30px;
@@ -42,6 +44,7 @@ p{
 }
 
 #lista{
+
     text-align: center;
     font-size: 60px; 
     padding-left: 250px;
@@ -52,9 +55,10 @@ p{
      
 
 
-#cocodrilos{    
-display:flex;
-flex-wrap: wrap;
+#cocodrilos{  
+
+    display:flex;
+    flex-wrap: wrap;
 
 
 }
@@ -69,6 +73,7 @@ flex-wrap: wrap;
 
 
 #coco_img{
+
     width: 300px; height: 200px;
     border: solid;
     border-color: white;
@@ -77,6 +82,7 @@ flex-wrap: wrap;
 
 
 #millones{
+    
     color:gray;
     font-style: solid;
     font-family: 'Courier New', Courier, monospace;
